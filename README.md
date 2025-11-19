@@ -93,7 +93,9 @@ Também fui responsável pela navegação das páginas, pela criação do layout
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, precisei de muita resiliência, pois a grande maioria do meu grupo estava tendo seu primeiro contato com programação nesse semestre. Também tivemos um grande aumento na carga de trabalho devido à saída de um membro do time de desenvolvimento. Mesmo com essas dificuldades, conseguimos concluir o projeto com êxito.
+Durante este projeto, exercitei intensamente minha resiliência. A maior parte do meu grupo estava tendo seu primeiro contato com programação neste semestre, o que exigiu paciência, apoio constante e capacidade de adaptação para que todos pudessem evoluir. Além disso, enfrentamos um aumento significativo na carga de trabalho devido à saída de um membro do time de desenvolvimento.
+
+Mesmo diante desses desafios, mantivemos o foco, reorganizamos nossas responsabilidades e trabalhamos de forma colaborativa. Como resultado, conseguimos concluir o projeto com êxito, demonstrando nossa capacidade de superar obstáculos e entregar um produto final de qualidade.
 
 </details>
 
@@ -137,8 +139,9 @@ Neste projeto atuei como Scrum Master, realizando Daily Scrums semanalmente para
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, desenvolvi significativamente minhas habilidades de comunicação e trabalho em equipe. Atuando como Scrum Master, fui responsável por acompanhar o andamento das atividades de todos os integrantes do grupo, além de compreender e apoiar cada um diante de suas dificuldades.
-Também tivemos uma gestão de tempo eficiente, o que nos permitiu realizar as entregas com antecedência em relação aos prazos estabelecidos.
+Durante este projeto, desenvolvi significativamente minhas habilidades de comunicação e trabalho em equipe. Atuando como Scrum Master, acompanhei de perto o andamento das atividades de todos os integrantes do grupo, garantindo que todos estivessem alinhados e oferecendo apoio sempre que surgiam dificuldades. Essa experiência reforçou minha capacidade de ouvir, orientar e facilitar a colaboração dentro da equipe.
+
+Além disso, exercitamos uma gestão de tempo eficiente, o que nos permitiu organizar as tarefas de forma estratégica e realizar as entregas antes dos prazos estabelecidos. Essa organização contribuiu não apenas para a qualidade do trabalho, mas também para um fluxo de desenvolvimento mais tranquilo e produtivo.
 
 </details>
 
@@ -189,8 +192,9 @@ Nesse projeto atuei como desenvolvedor, auxiliando na criação de algumas funç
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, desenvolvi significativamente minhas habilidades de colaboração e resolução de problemas. Atuando como parte do Dev Team, contribuí ativamente tanto no backend quanto no frontend, o que exigiu constante alinhamento com os demais membros da equipe para garantir a integração das funcionalidades.
-Além de exercitar minha proatividade, assumindo a responsabilidade pela criação do banco de dados.
+Durante este projeto, desenvolvi significativamente minhas habilidades de colaboração e resolução de problemas. Atuando como parte do Dev Team, contribuí ativamente tanto no backend quanto no frontend, o que exigiu alinhamento contínuo com o time para garantir a integração eficiente das funcionalidades e a consistência da aplicação.
+
+Além disso, exercitei minha proatividade ao assumir a responsabilidade pela criação do banco de dados. Busquei antecipar necessidades, estruturar as informações de forma organizada e assegurar que o modelo atendesse às demandas do projeto, contribuindo diretamente para a estabilidade e o bom funcionamento do sistema.
 
 </details>
 <details>
@@ -244,9 +248,9 @@ Nesse projeto atuei como desenvolvedor, fiquei responsável pela criação e est
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, desenvolvi fortemente minha habilidade de proatividade ao ficar encarregado da criação e estilização das páginas de login e ticket, garantindo uma interface funcional e visualmente agradável para o usuário.
+Durante este projeto, desenvolvi fortemente minha proatividade ao assumir a criação e a estilização das páginas de login e ticket, garantindo uma interface funcional, intuitiva e visualmente agradável para o usuário. Ao antecipar necessidades e propor melhorias de layout e usabilidade, consegui agilizar o processo e contribuir diretamente para a qualidade da entrega.
 
-Além disso, ao colaborar na aplicação dos gráficos, exercitei minha comunicação e trabalho em equipe.
+Além disso, ao colaborar na implementação dos gráficos, exercitei minha comunicação e meu trabalho em equipe. Trabalhar lado a lado com os colegas, alinhando expectativas, revisando soluções e integrando diferentes partes do sistema, reforçou minha capacidade de cooperar e manter o fluxo de desenvolvimento organizado e eficiente.
 
 </details>
 
@@ -296,9 +300,9 @@ Nesse projeto atuei como desenvolvedor, fui responsável pela estilização da p
 
 ### 🤝 Soft Skills
 
-Durante esse projeto desenvolvi minha habilidade de autonomia ao ser responsável pela estilização da página de usuário e pela criação da funcionalidade de câmera.
+Durante este projeto, desenvolvi minha autonomia ao assumir integralmente a estilização da página de usuário e a implementação da funcionalidade de câmera. Enfrentei desafios técnicos novos e, ao buscar soluções por conta própria e validar com a equipe, mostrei minha capacidade de aprender rapidamente e tomar decisões com segurança.
 
-Também exercitei minha organização e gestão de tempo, por termos um prazo menor do que o normal, tendo que trabalhar com apenas três sprints em vez de quatro.
+Além disso, exercitei fortemente minha organização e gestão de tempo. Como o projeto teve um prazo reduzido — apenas três sprints em vez de quatro — precisei priorizar tarefas, estruturar bem meu fluxo de trabalho e comunicar o progresso de forma clara para garantir que todas as entregas fossem concluídas dentro do cronograma.
 
 </details>
 
@@ -346,8 +350,8 @@ Nesse projeto, atuei como desenvolvedor e fui responsável pelo tratamento de da
 
 ### 🤝 Soft Skills
 
-Durante esse projeto, desenvolvi minha proatividade ao ficar responsável pelo tratamento de todos os datasets.
+Durante este projeto, desenvolvi minha proatividade ao assumir a responsabilidade pelo tratamento de todos os datasets. Ao identificar inconsistências e necessidades de padronização nos dados, tomei a iniciativa de propor melhorias e implementar soluções que facilitaram o trabalho de toda a equipe, garantindo maior qualidade e confiabilidade das informações utilizadas.
 
-Também exercitei minha colaboração ao trabalhar junto com meus colegas na criação e no refinamento dos agentes de dieta e de anamnese.
+Também exercitei minha colaboração ao trabalhar de forma próxima com meus colegas na criação e no refinamento dos agentes de dieta e de anamnese. Participar das discussões, compartilhar ideias e ajustar as funcionalidades com base nos feedbacks coletivos reforçou minha capacidade de trabalhar em equipe e contribuir para um resultado final mais coerente e eficiente.
 
 </details>
