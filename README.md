@@ -72,8 +72,9 @@ Como solução, minha equipe desenvolveu um sistema web de aprendizado, com uma 
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor e construí a página principal do projeto utilizando HTML e CSS.
-Também fui responsável pela navegação das páginas, pela criação do layout de algumas delas e por grande parte da estilização do projeto, como a página Home e todas as páginas de conteúdo explicativo.
+Nesse projeto, atuei como desenvolvedor front-end e fui responsável pela construção da página principal, estruturando todo o layout em HTML e aplicando estilizações avançadas em CSS. Além disso, desenvolvi a navegação entre as páginas, garantindo uma experiência fluida e intuitiva para o usuário.
+
+Contribuí diretamente para o design e implementação de diversas telas, incluindo a Home e todas as páginas com conteúdo explicativo. Meu trabalho envolveu desde a criação da identidade visual dessas páginas até o refinamento de elementos de UI, organização dos componentes, responsividade e padronização do estilo geral do projeto. Essas atividades me permitiram demonstrar domínio em HTML, CSS, boas práticas de estruturação e foco na experiência do usuário.
 
 ---
 
@@ -125,7 +126,9 @@ Como solução, minha equipe desenvolveu um chatbot capaz de extrair e responder
 
 ### 👨‍💻 Contribuições Pessoais
 
-Neste projeto atuei como Scrum Master, realizando Daily Scrums semanalmente para acompanhar o desenvolvimento dos membros da equipe. Também ajudei no desenvolvimento do projeto com a criação das páginas de Cadastro, Login, Respostas e de Visualização das entradas. Além de ser responsável pela criação do Banco de Dados
+Neste projeto, atuei como Scrum Master, conduzindo as Daily Scrums e acompanhando continuamente o progresso da equipe para garantir alinhamento, remover impedimentos e manter o fluxo de desenvolvimento eficiente. Além do papel de facilitador, também contribuí diretamente para a implementação do sistema, desenvolvendo as páginas de Cadastro, Login, Respostas e Visualização de Entradas.
+
+Participei ativamente da arquitetura do projeto e fui responsável pela criação e estruturação do banco de dados, definindo suas tabelas, relacionamentos e regras de negócio. Essa combinação de liderança ágil e atuação técnica permitiu que eu contribuísse tanto para a organização do time quanto para a qualidade da solução entregu
 
 ---
 
@@ -174,7 +177,11 @@ Como solução, minha equipe desenvolveu um dashboard com uma interface intuitiv
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor, auxiliando na criação de algumas funções do backend, como a de deletar usuário e a de listar usuários. No frontend fui responsável pela criação da tabela de histórico, várias correções dos gráficos e as mudanças na tela de login. E também fiquei responsável pela criação do banco de dados.
+Nesse projeto, atuei como desenvolvedor contribuindo tanto no backend quanto no frontend. No backend, auxiliei na implementação de funcionalidades essenciais, como a criação dos endpoints para deletar usuários e listar todos os usuários, garantindo uma lógica consistente e integrada ao restante do sistema.
+
+No frontend, fui responsável pela implementação da tabela de histórico, além de realizar diversas correções nos gráficos para melhorar a visualização e a precisão das informações apresentadas. Também conduzi ajustes importantes na tela de login, aprimorando sua usabilidade e experiência do usuário.
+
+Além disso, assumi a responsabilidade pela criação e estruturação do banco de dados, definindo suas tabelas, relacionamentos e regras necessárias para o bom funcionamento do projeto.
 
 ---
 
@@ -228,7 +235,7 @@ Como solução, minha equipe desenvolveu uma plataforma integrada, capaz de cent
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor, fiquei responsável pela criação e estilização das páginas de login e ticket, além de auxiliar na aplicação dos gráficos.
+Nesse projeto, atuei como desenvolvedor, sendo responsável pela criação e estilização das páginas de login e de tickets, cuidando tanto da estrutura quanto da identidade visual dessas interfaces. Além disso, contribuí na implementação e ajuste dos gráficos utilizados no sistema, garantindo que fossem integrados corretamente e apresentassem os dados de forma clara e funcional.
 
 ---
 
@@ -285,7 +292,7 @@ Como solução, minha equipe desenvolveu uma aplicação móvel que permite aos 
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor, fui responsável pela estilização da página de usuário, pela criação da função de câmera para tirar fotos direto do app e também pela criação e estilização da página de detalhes do reembolso
+Nesse projeto, atuei como desenvolvedor e fui responsável pela estilização completa da página de usuário, garantindo uma interface organizada e agradável. Também desenvolvi a funcionalidade de câmera, permitindo que o usuário tirasse fotos diretamente pelo aplicativo. Além disso, criei e estilizei a página de detalhes do reembolso, estruturando sua apresentação e assegurando uma experiência intuitiva para o usuário.
 
 ### 🧠 Hard Skills
 
@@ -336,7 +343,7 @@ Como solução, minha equipe desenvolveu uma aplicação web voltada para nutri�
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto, atuei como desenvolvedor e fui responsável pelo tratamento de dados, pelo refinamento do agente de dieta e pela criação do agente de anamnese.
+Nesse projeto, atuei como desenvolvedor e fui responsável pelo tratamento e organização dos dados utilizados pelo sistema, garantindo maior precisão e consistência nas respostas. Também realizei melhorias no agente de dieta, refinando sua lógica e ampliando sua capacidade de fornecer recomendações mais adequadas. Além disso, desenvolvi o agente de anamnese, estruturando seu fluxo de perguntas e respostas para tornar o processo mais completo e eficiente.
 
 ---
 
