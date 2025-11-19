@@ -303,13 +303,13 @@ Também exercitei minha organização e gestão de tempo, por termos um prazo me
 </details>
 
 <details>
-  <summary><strong>Junipy - 6º Semestre (2025-2)</strong></summary>
+ <summary><strong>Junipy - 6º Semestre (2025-2)</strong></summary>
 
 ### 🏢 Sobre o Projeto
 
-O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica.AI, empresa especializada em desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da Xertica.AI.
+O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica.AI, empresa especializada em soluções de inteligência artificial. Os requisitos foram apresentados durante o KickOff por um representante da Xertica.AI.
 
-O problema apresentado consistia na necessidade de uma maneira prática de ter contato com a nutrição.
+O problema apresentado consistia na necessidade de uma maneira prática de ter acesso a orientações nutricionais.
 
 Como solução, minha equipe desenvolveu uma aplicação web voltada para nutrição digital, integrada a um agente conversacional inteligente que atua como um assistente nutricional personalizado. A plataforma facilita o acompanhamento alimentar, oferece recomendações confiáveis e apoia tanto indivíduos quanto profissionais na adoção de hábitos mais saudáveis.
 
@@ -320,36 +320,29 @@ Como solução, minha equipe desenvolveu uma aplicação web voltada para nutri�
 ### 🛠 Tecnologias Utilizadas
 
 - **TypeScript** – Linguagem de programação utilizada no frontend;
-
 - **Java** – Linguagem de programação utilizada no backend;
-
 - **Spring Boot** – Framework utilizado no backend para estruturar as rotas e facilitar a criação da API REST;
-
 - **Python** – Linguagem utilizada para o desenvolvimento do agente;
-
 - **Google ADK** – Framework modular da Google utilizado para a criação dos agentes de IA;
-
 - **Vue.js** – Biblioteca utilizada para construção das interfaces web, integrada ao TypeScript;
-
-- **MongoDB** – Banco de dados utilizado para armazenar as informações da aplicação.
-
-- **ChromaDB** - Banco de dados vetorial utilizado para armazenar os embedding de nutrição e comorbidade
+- **MongoDB** – Banco de dados utilizado para armazenar as informações da aplicação;
+- **ChromaDB** – Banco de dados vetorial utilizado para armazenar os embeddings de nutrição e comorbidades.
 
 ---
 
 ### 👨‍💻 Contribuições Pessoais
 
-Nesse projeto atuei como desenvolvedor, fui responsável pelo tratamento de dados, refinamento do agente dieta e criação do agente de anamnese
+Nesse projeto, atuei como desenvolvedor e fui responsável pelo tratamento de dados, pelo refinamento do agente de dieta e pela criação do agente de anamnese.
+
+---
 
 ### 🧠 Hard Skills
 
-- **Python** - Uso com autonomia
+- **Python** – Uso com autonomia  
+- **Google ADK** – Uso com ajuda  
+- **ChromaDB** – Uso com autonomia  
 
-- **Google ADK** - Uso com ajuda
-
-- **ChromaDB** - Uso com autonomia
-
-
+---
 
 ### 🤝 Soft Skills
 
