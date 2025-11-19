@@ -48,9 +48,9 @@ Esse desejo me trouxe, em 2023, ao curso de Análise e Desenvolvimento de Sistem
 
 O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria Fatec. Os requisitos foram apresentados pelo professor Antônio Egydio São Thiago Graça, que assumiu o papel de cliente final.
 
-O problema apresentado consistia na dificuldade dos alunos no aprendizado da metodologia Scrum, principalmente pela falta de exemplos práticos, imagens e vídeos explicativos.
+O problema apresentado consistia na dificuldade que a organização enfrentava para capacitar seus colaboradores na aplicação prática da metodologia Scrum. Os treinamentos disponíveis eram excessivamente teóricos, pouco interativos e não ofereciam exemplos práticos, imagens ou vídeos que facilitassem a compreensão e a replicação do método no cotidiano.
 
-Como solução, minha equipe desenvolveu um sistema web de aprendizado, com uma trilha de estudos que inclui textos, imagens e vídeos, além de uma área com exames de aptidão que avaliam os conhecimentos do aluno.
+Como solução, minha equipe desenvolveu um sistema web de aprendizado que apresenta os processos, artefatos e fundamentos do Scrum por meio de uma trilha completa de estudos com textos, imagens e vídeos explicativos. Além disso, o sistema inclui exames de avaliação parcial e final para mensurar o conhecimento adquirido. O objetivo é oferecer uma experiência de aprendizado mais dinâmica e prática, permitindo que os usuários compreendam e apliquem o framework com maior clareza.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/Sandro-Pimentel/AReS)
 
@@ -108,9 +108,9 @@ Mesmo diante desses desafios, mantivemos o foco, reorganizamos nossas responsabi
 
 O projeto desenvolvido no segundo semestre teve como empresa parceira novamente a própria Fatec. Os requisitos foram apresentados pelo professor Giuliano Araujo Bertoti, que assumiu o papel de cliente final.
 
-O problema apresentado consistia na limitação das inteligências artificiais em responder perguntas com base em contextos mais específicos, como informações contidas em textos, o que dificultava a busca por dados relevantes em documentos extensos.
+O problema apresentado consistia na dificuldade que muitos usuários enfrentam para analisar documentos longos ou técnicos, uma vez que extrair informações relevantes demandava muito tempo e esforço. Isso comprometia a produtividade em estudos, pesquisas e processos de tomada de decisão.
 
-Como solução, minha equipe desenvolveu um chatbot capaz de extrair e responder perguntas com base em textos fornecidos pelo próprio usuário, oferecendo agilidade e eficiência na obtenção de informações em materiais longos.
+Como solução, minha equipe desenvolveu um chatbot capaz de interpretar documentos automaticamente, gerar perguntas contextualizadas e fornecer respostas instantâneas com base no conteúdo dos textos. A ferramenta torna a análise de documentos mais ágil, dinâmica e eficiente, permitindo que os usuários obtenham informações relevantes de forma rápida e precisa.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/VituuSaborito/Lotus)
 
@@ -155,9 +155,9 @@ Além disso, exercitamos uma gestão de tempo eficiente, o que nos permitiu orga
 
 O projeto desenvolvido no terceiro semestre do curso teve como empresa parceira a Pro4Tech, empresa que oferece serviços de transformação digital e inteligência artificial. Os requisitos foram apresentados durante o KickOff por um representante da empresa.
 
-O problema apresentado consistia na dificuldade de analisar e armazenar grandes volumes de informações provenientes de planilhas Excel, o que tornava o processo de tomada de decisão mais lento e ineficiente.
+O problema apresentado consistia na dificuldade que os usuários enfrentavam para analisar e interpretar grandes volumes de informações provenientes de planilhas Excel, o que tornava o processo de tomada de decisão mais lento e ineficiente.
 
-Como solução, minha equipe desenvolveu um dashboard com uma interface intuitiva, que permite o envio de planilhas e a visualização dos dados por meio de gráficos, facilitando a análise e o acompanhamento das informações.
+Como solução, minha equipe desenvolveu um dashboard web com interface intuitiva e adaptável, que permite o envio de planilhas e a visualização dos dados por meio de gráficos e ferramentas de análise. A plataforma facilita a interpretação das informações, proporciona insights relevantes e melhora a produtividade na gestão de dados.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/Code-Lotus/api-3)
 
@@ -211,9 +211,9 @@ Além disso, exercitei minha proatividade ao assumir a responsabilidade pela cri
 
 O projeto desenvolvido no quarto semestre do curso teve como empresa parceira a JJM LOG, uma empresa especializada em transporte e logística integrada. Os requisitos foram apresentados durante o KickOff por um representante da JJM LOG.
 
-O problema apresentado consistia nas dificuldades enfrentadas no gerenciamento logístico, causadas principalmente pela falta de integração entre os setores e pela comunicação interna ineficiente.
+O problema apresentado consistia nas dificuldades enfrentadas pelas empresas em integrar a comunicação entre setores, organizar documentos, acompanhar o desempenho das equipes e gerenciar atividades como viagens e ordens de serviço. A falta de centralização dessas informações e ferramentas causava atrasos, retrabalho e baixa produtividade.
 
-Como solução, minha equipe desenvolveu uma plataforma integrada, capaz de centralizar funções essenciais da rotina empresarial, promovendo maior organização e aprimorando significativamente a comunicação entre os setores da empresa.
+Como solução, minha equipe desenvolveu a plataforma WeCollab, uma ferramenta integrada capaz de centralizar funções essenciais da rotina empresarial. A plataforma promove maior organização, aprimora significativamente a comunicação interna, oferece acesso rápido a documentos e portais de arquivos pessoais, é segura, adaptável e pode ser integrada a outros sistemas, tornando o trabalho mais eficiente e colaborativo.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/WeCollab)
 
@@ -268,9 +268,9 @@ Além disso, ao colaborar na implementação dos gráficos, exercitei minha comu
 
 O projeto desenvolvido no quinto semestre do curso teve como empresa parceira a GSW, empresa especializada em desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da GSW.
 
-O problema apresentado consistia na gestão ineficiente de reembolsos e despesas, causada por processos manuais e pela falta de integração entre as etapas do fluxo de reembolso.
+O problema apresentado consistia nas dificuldades enfrentadas por empresas e colaboradores devido a processos manuais e demorados para solicitar e aprovar reembolsos, o que gerava atrasos, erros, falta de controle e pouca transparência na gestão de despesas corporativas.
 
-Como solução, minha equipe desenvolveu uma aplicação móvel que permite aos funcionários cadastrar suas despesas de forma prática, facilitando o processo de solicitação e controle dos reembolsos por parte da empresa.
+Como solução, minha equipe desenvolveu a aplicação móvel ExpenseFlow, projetada para tornar o processo de reembolso mais rápido, simples e acessível. Com uma interface intuitiva e responsiva, o aplicativo permite que os usuários registrem despesas com praticidade e que as empresas aprovem rapidamente. Desenvolvido com metodologia ágil Scrum, o projeto garante entregas contínuas, adapta-se às necessidades dos usuários e promove maior transparência, produtividade e controle financeiro.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/ExpenseFlow)
 
@@ -320,9 +320,9 @@ Além disso, exercitei fortemente minha organização e gestão de tempo. Como o
 
 O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica.AI, empresa especializada em soluções de inteligência artificial. Os requisitos foram apresentados durante o KickOff por um representante da Xertica.AI.
 
-O problema apresentado consistia na necessidade de uma maneira prática de ter acesso a orientações nutricionais.
+O problema apresentado consistia nas dificuldades enfrentadas por pessoas que necessitam de orientação nutricional confiável e personalizada, agravadas pela falta de acompanhamento contínuo, excesso de informações divergentes na internet e ausência de ferramentas acessíveis para adotar hábitos saudáveis, especialmente para quem possui restrições alimentares ou objetivos específicos.
 
-Como solução, minha equipe desenvolveu uma aplicação web voltada para nutrição digital, integrada a um agente conversacional inteligente que atua como um assistente nutricional personalizado. A plataforma facilita o acompanhamento alimentar, oferece recomendações confiáveis e apoia tanto indivíduos quanto profissionais na adoção de hábitos mais saudáveis.
+Como solução, minha equipe desenvolveu uma aplicação web voltada para nutrição digital, integrada a um agente conversacional inteligente que atua como assistente nutricional personalizado. A plataforma facilita o acompanhamento alimentar, fornece recomendações confiáveis, interage de forma natural com os usuários e apoia tanto indivíduos quanto profissionais na adoção de hábitos mais saudáveis.
 
 🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/Junipy)
 
