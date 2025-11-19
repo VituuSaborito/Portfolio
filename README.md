@@ -302,3 +302,59 @@ Também exercitei minha organização e gestão de tempo, por termos um prazo me
 
 </details>
 
+<details>
+  <summary><strong>Junipy - 6º Semestre (2025-2)</strong></summary>
+
+### 🏢 Sobre o Projeto
+
+O projeto desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica.AI, empresa especializada em desenvolvimento e implantação de soluções corporativas. Os requisitos foram apresentados durante o KickOff por um representante da Xertica.AI.
+
+O problema apresentado consistia na necessidade de uma maneira prática de ter contato com a nutrição.
+
+Como solução, minha equipe desenvolveu uma aplicação web voltada para nutrição digital, integrada a um agente conversacional inteligente que atua como um assistente nutricional personalizado. A plataforma facilita o acompanhamento alimentar, oferece recomendações confiáveis e apoia tanto indivíduos quanto profissionais na adoção de hábitos mais saudáveis.
+
+🔗 [Repositório do Projeto no GitHub](https://github.com/Byte-Boost/Junipy)
+
+---
+
+### 🛠 Tecnologias Utilizadas
+
+- **TypeScript** – Linguagem de programação utilizada no frontend;
+
+- **Java** – Linguagem de programação utilizada no backend;
+
+- **Spring Boot** – Framework utilizado no backend para estruturar as rotas e facilitar a criação da API REST;
+
+- **Python** – Linguagem utilizada para o desenvolvimento do agente;
+
+- **Google ADK** – Framework modular da Google utilizado para a criação dos agentes de IA;
+
+- **Vue.js** – Biblioteca utilizada para construção das interfaces web, integrada ao TypeScript;
+
+- **MongoDB** – Banco de dados utilizado para armazenar as informações da aplicação.
+
+- **ChromaDB** - Banco de dados vetorial utilizado para armazenar os embedding de nutrição e comorbidade
+
+---
+
+### 👨‍💻 Contribuições Pessoais
+
+Nesse projeto atuei como desenvolvedor, fui responsável pelo tratamento de dados, refinamento do agente dieta e criação do agente de anamnese
+
+### 🧠 Hard Skills
+
+- **Python** - Uso com autonomia
+
+- **Google ADK** - Uso com ajuda
+
+- **ChromaDB** - Uso com autonomia
+
+
+
+### 🤝 Soft Skills
+
+Durante esse projeto, desenvolvi minha proatividade ao ficar responsável pelo tratamento de todos os datasets.
+
+Também exercitei minha colaboração ao trabalhar junto com meus colegas na criação e no refinamento dos agentes de dieta e de anamnese.
+
+</details>
